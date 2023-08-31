@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Raja Umer and I'm Full-Stack Developer</p>
+<p align="left">I am Raja Umer and I'm Full-Stack Developer</p>
 
 ###
 
